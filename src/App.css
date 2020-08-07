@@ -1,0 +1,11 @@
+.TodoApp {
+  background-color: #3f3160;
+  min-height:500px;
+  width:400px;
+  margin:40px auto;
+}
+.mainheading {
+  text-align: center;
+  margin-top: 15px;
+  color: #fff;
+}

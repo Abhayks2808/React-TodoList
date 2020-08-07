@@ -1,0 +1,30 @@
+.formInput input {
+    background-color: rgb(27,112,137);
+    border:0;
+    width:200px;
+    height:50px;
+    padding: 0 20px;
+    margin:20px;
+    font-size:18px;
+    border-radius: 10px;
+    color:#fff;
+}
+
+.formInput input::placeholder {
+    color:rgba(255, 255, 255, 0.5)
+}
+
+.formInput input:focus ,.formInput button:focus{
+    outline:none;
+}
+
+.formInput button {
+    height:50px;
+    width:80px;
+    border-radius: 5px;
+    border:0;
+    background-color: rgb(202,156,24);
+    cursor: pointer;
+    font-weight: bolder;
+    color:#fff
+}
