@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Abhayks2808/React-TodoList.git/static/css/main.486367e2.chunk.css",
+    "main.js": "/Abhayks2808/React-TodoList.git/static/js/main.6f9557d5.chunk.js",
+    "main.js.map": "/Abhayks2808/React-TodoList.git/static/js/main.6f9557d5.chunk.js.map",
+    "runtime-main.js": "/Abhayks2808/React-TodoList.git/static/js/runtime-main.71a8f4b7.js",
+    "runtime-main.js.map": "/Abhayks2808/React-TodoList.git/static/js/runtime-main.71a8f4b7.js.map",
+    "static/js/2.df7c2a71.chunk.js": "/Abhayks2808/React-TodoList.git/static/js/2.df7c2a71.chunk.js",
+    "static/js/2.df7c2a71.chunk.js.map": "/Abhayks2808/React-TodoList.git/static/js/2.df7c2a71.chunk.js.map",
+    "index.html": "/Abhayks2808/React-TodoList.git/index.html",
+    "precache-manifest.438a96a4840b6be44986d0ea9ce40fd3.js": "/Abhayks2808/React-TodoList.git/precache-manifest.438a96a4840b6be44986d0ea9ce40fd3.js",
+    "service-worker.js": "/Abhayks2808/React-TodoList.git/service-worker.js",
+    "static/css/main.486367e2.chunk.css.map": "/Abhayks2808/React-TodoList.git/static/css/main.486367e2.chunk.css.map",
+    "static/js/2.df7c2a71.chunk.js.LICENSE.txt": "/Abhayks2808/React-TodoList.git/static/js/2.df7c2a71.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.71a8f4b7.js",
+    "static/js/2.df7c2a71.chunk.js",
+    "static/css/main.486367e2.chunk.css",
+    "static/js/main.6f9557d5.chunk.js"
+  ]
+}
